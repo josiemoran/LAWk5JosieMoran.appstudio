@@ -1,4 +1,4 @@
-let loopIterations = false 
+/*let loopIterations = false 
 
 i = 0 
 
@@ -7,3 +7,4 @@ while (loopIterations == false) {
     i++
     loopIterations = confirm("Done?")
 }
+*/
